@@ -1,0 +1,10 @@
+h2 {
+    font-style: italic;
+    text-shadow: 5px 5px 15px #a2e0f7;
+    background-image: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background-clip: text;
+    color: transparent;
+    font-size: 3rem;
+    line-height: normal;
+    -webkit-text-stroke: 0.6px black;
+}
